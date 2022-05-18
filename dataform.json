@@ -1,6 +1,6 @@
 {
     "warehouse": "bigquery",
-    "defaultSchema": "dataform",
+    "defaultSchema": "dataform_testappdataformqa_SL",
     "assertionSchema": "dataform_assertions",
     "defaultDatabase": "rugged-abacus-218110"
 }
