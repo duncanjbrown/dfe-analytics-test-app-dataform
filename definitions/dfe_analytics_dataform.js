@@ -12,10 +12,10 @@ dfeAnalyticsDataform({
    keys: [{
       keyName: "country",
       dataType: "string",
-      description: ""
+      description: "the user's country"
    }, {
       keyName: "dob",
-      dataType: "string",
+      dataType: "date",
       description: ""
    }, {
       keyName: "email_address",
@@ -23,6 +23,14 @@ dfeAnalyticsDataform({
       description: ""
    }, {
       keyName: "favourite_colour",
+      dataType: "string",
+      description: ""
+   }, {
+      keyName: "animal",
+      dataType: "string",
+      description: ""
+   }, {
+      keyName: "codename",
       dataType: "string",
       description: ""
    }]
